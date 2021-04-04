@@ -1,0 +1,12 @@
+space-servers:
+  spaceone:
+    point: 0
+    star: 'sun'
+    planets:
+      earth:
+        server: 'nonspace'
+        number: 1
+        moons:
+          moon:
+            number: 1
+            server: 'nonspace'
