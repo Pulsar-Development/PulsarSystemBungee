@@ -1,5 +1,0 @@
-name: PulsarSystem
-version: 1.0
-main: org.Pulsar.PSBungee.Main
-author: NukerFall
-description: Pulsar proxy part.
